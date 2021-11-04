@@ -1,4 +1,5 @@
 {
+    "name": "hiper/gateway-core",
     "require": {
         "php": ">=7.2",
         "ext-json": "*"
