@@ -88,7 +88,9 @@
             "EasySwoole\\Mysqli\\": "swoole-framework/mysqli/src/",
             "EasySwoole\\MysqliPool\\": "swoole-framework/mysqli-pool/src/",
             "EasySwoole\\Jwt\\": "swoole-framework/jwt/src/",
-            "EasySwoole\\Rpc\\": "swoole-framework/rpc/src/"
+            "EasySwoole\\Rpc\\": "swoole-framework/rpc/src/",
+            "EasySwoole\\ORM\\": "swoole-framework/orm/src/",
+            "EasySwoole\\DDL\\": "swoole-framework/ddl/src/"
         }
     }
 }

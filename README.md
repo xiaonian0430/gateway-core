@@ -1,5 +1,5 @@
 # gateway-core
-直播网关内核。
+http ws 网关内核。
 
 ## 服务器环境要求：
 
